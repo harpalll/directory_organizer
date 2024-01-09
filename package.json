@@ -1,0 +1,12 @@
+{
+  "name": "clear_clutter",
+  "version": "1.0.0",
+  "description": "this is a node js program to clear all the clutter from your folders and organize them based on their extensions.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Harpalsinh Sindhav",
+  "license": "ISC"
+}
